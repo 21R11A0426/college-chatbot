@@ -1,8 +1,11 @@
-# 🎓 College Chatbot (Voice-Interactive)
+# 🎓 Geethanajli College Chatbot (Voice-Interactive)
 
 A voice-enabled chatbot built with **Flask** and the **Web Speech API**. It answers real-time queries related to college details, class schedules, weather updates, and more.
 
-🔗 **Live Demo:** [https://college-chatbot.onrender.com](https://college-chatbot.onrender.com)
+🔗 **Live Demo:** 
+
+
+👉 [college-chatbot-lmj4.onrender.com](https://college-chatbot-lmj4.onrender.com)
 
 ## 🔧 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript (Web Speech API)
@@ -14,9 +17,9 @@ A voice-enabled chatbot built with **Flask** and the **Web Speech API**. It answ
 - 🎤 Voice interaction (speech-to-text & text-to-speech)
 - 🗓️ Timetable lookup
 - ☀️ Weather updates
-- 🏫 College info (chairman, branches, clubs, etc.)
+- 🏫 College info (chairman, branches, clubs,Placements, etc.)
 
 ---
 
-**Created by:** Vikas  
-📧 vikaso2003v@gmail.com
+**Created by:** Vikas  Maldannagari
+📧 vikaso222v@gmail.com
