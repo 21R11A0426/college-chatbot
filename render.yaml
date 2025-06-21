@@ -5,3 +5,7 @@ services:
     plan: free
     buildCommand: pip install -r requirements.txt
     startCommand: python app.py
+    envVars:
+      - key: OWM_API_KEY
+        value: c8e4d4dfe1132b18698dc91a8e05c799
+
